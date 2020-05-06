@@ -1,0 +1,15 @@
+.appIsim{
+    justify-content: center;
+    align-items: center;
+    font-size: 40;
+}
+
+.saat{
+    background-color: #1abc9c;
+    display: none;
+    margin-top: 100px;
+    border-radius: 30px;
+    align-items: center;
+    justify-content: center;
+    font-size: 100;
+}
